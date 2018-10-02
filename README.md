@@ -9,7 +9,7 @@ Rehberlik Servisi Görüşme Kayıt Programı
 
 # Indir V1.1
 
- <a href="https://github.com/egitsoft/rehberlix/releases/download/stable/RehberliX.zip">https://github.com/egitsoft/RehberliX.zip</a> 
+ <a href="https://github.com/egitsoft/rehberlix/releases/download/stable/RehberliX.zip">https://github.com/egitsoft/rehberlix/releases/download/stable/RehberliX.zip</a> 
  
 
 
