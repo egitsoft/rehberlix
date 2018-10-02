@@ -1,2 +1,2 @@
 # rehberlix
-Rehberlik Servisi Gorusme Programi
+Rehberlik Servisi Görüşme Kayıt Programı
