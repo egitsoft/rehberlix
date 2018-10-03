@@ -2,7 +2,7 @@
 
 Rehberlik Servisi Görüşme Kayıt Programı
 
- <img src="https://image.ibb.co/geAp9K/gorusme_kayit.jpg" height="200" width="300"> 
+ <img src="https://image.ibb.co/geAp9K/gorusme_kayit.jpg" height="250" width="400"> 
 
 Öğrenci Görüşme Programı, ilkokul, ortaokul veya liselerde rehberlik servislerinin öğrencilerle ilgili yaptığı görüşmeleri ve diğer faaliyetleri takip etmek için hazırlanmış bir yazılımdır. 
 
