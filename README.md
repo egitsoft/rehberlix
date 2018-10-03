@@ -6,4 +6,5 @@ Rehberlik Servisi Görüşme Kayıt Programı
 
 Öğrenci Görüşme Programı, ilkokul, ortaokul veya liselerde rehberlik servislerinin öğrencilerle ilgili yaptığı görüşmeleri ve diğer faaliyetleri takip etmek için hazırlanmış bir yazılımdır. 
 
- <img src="https://image.ibb.co/mLqsEK/indir.png"> 
+  
+ <a href="https://github.com/egitsoft/rehberlix/releases/download/stable/Rehberlix.Setup.zip"><img src="https://image.ibb.co/mLqsEK/indir.png"></a>
