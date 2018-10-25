@@ -1,4 +1,4 @@
-# RehberliX V1.1
+# RehberliX V1.2
 
 Rehberlik Servisi Görüşme Kayıt Programı
 
